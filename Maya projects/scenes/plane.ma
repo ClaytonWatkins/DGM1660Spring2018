@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
 //Name: plane.ma
-//Last modified: Thu, Jan 18, 2018 03:51:37 PM
+//Last modified: Thu, Jan 18, 2018 04:18:00 PM
 //Codeset: 1252
 requires maya "2017ff05";
 requires -nodeType "displayPoints" "Type" "2.0";
