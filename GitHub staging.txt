@@ -1,5 +1,14 @@
-You can submit/upload files into your repo via GitHub.com and bypass GitKraken this works on ANY computer. 
+GitHub is a cloud based storage for your file which you can copy, change, and share.  
+It also acts as a backup to your local storage via the cloud storage.
+Cloud storage allows others to access your info.
+You can also submit to you a pull request to others so they can see your work and integrate it.
+You have limit access to change files on the website and can commit and upload via the webpage.
+You can submit changes or files into your repo via GitHub.com and bypass GitKraken this works on ANY computer. 
 
-So if you save your documents to your google drive and use it to upload into GitHub.com the theory is you will always have your stuff with a back up.
+GitKraken is a file management interface on your local computer and must be downloaded per user, per computer.
+It allows for easy tracking of files on your local storage to your cloud storage on in your git repo.
+It also allows for easy visual of your repo and if your local storage matches your cloud storage.
+This ensure your local and cloud storage are the same files and you will be able to work on them from any computer.
+You use GitKraken to open your files in their folders for easy access. 
 
-The theory is even without internet access I would still have stuff saved to my device and could still work on it. 
+ 
