@@ -10,5 +10,3 @@ It allows for easy tracking of files on your local storage to your cloud storage
 It also allows for easy visual of your repo and if your local storage matches your cloud storage.
 This ensure your local and cloud storage are the same files and you will be able to work on them from any computer.
 You use GitKraken to open your files in their folders for easy access. 
-
- 
