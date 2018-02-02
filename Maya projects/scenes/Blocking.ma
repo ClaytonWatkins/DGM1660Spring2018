@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
 //Name: Blocking.ma
-//Last modified: Thu, Feb 01, 2018 05:01:14 PM
+//Last modified: Thu, Feb 01, 2018 05:05:36 PM
 //Codeset: 1252
 requires maya "2017ff05";
 currentUnit -l centimeter -a degree -t film;
@@ -13,8 +13,8 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "7DB49DB3-47D1-89F6-F2CD-168A61680C1D";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 1.1260732635057518 7.5199667898096729 23.905688268683328 ;
-	setAttr ".r" -type "double3" -366.93835272890448 -3957.3999999977573 -2.4873689176032053e-017 ;
+	setAttr ".t" -type "double3" -4.5880840235792562 11.366043755621305 22.71127552757509 ;
+	setAttr ".r" -type "double3" -375.9383527294342 -3970.999999996418 -4.0501051914818464e-016 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "D510464B-4B77-6662-A0E9-DEB2EDB0C0A7";
 	setAttr -k off ".v" no;
