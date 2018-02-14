@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
-//Name: Refractor robot 5 hours.ma
-//Last modified: Tue, Feb 13, 2018 10:36:24 PM
+//Name: UV mapping 3 hours.ma
+//Last modified: Tue, Feb 13, 2018 10:36:46 PM
 //Codeset: 1252
 requires maya "2017ff05";
 requires "stereoCamera" "10.0";
@@ -28752,4 +28752,4 @@ connectAttr "groupId12.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId13.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId14.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId15.msg" ":initialShadingGroup.gn" -na;
-// End of Refractor robot 5 hours.ma
+// End of UV mapping 3 hours.ma
